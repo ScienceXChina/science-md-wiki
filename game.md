@@ -1,0 +1,1 @@
+[3D魔方](https://gateway.pinata.cloud/ipfs/QmRi69xU1CUFD1an88x3NbHpGMgkQaNRjio3Lku1LZuV7b/)
