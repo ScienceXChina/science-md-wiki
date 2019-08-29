@@ -14,11 +14,32 @@
 本知识库主要包括以下方面： 
 
 - 人工智能（Pytroch）  
-- 机器人（ROS）  
+- 机器人系统（ROS）  
 - 视觉技术（OpenCV）  
-- 区块链（Hyperledger） 
 - 计算机技术（Windows，Linux，Docker，MySQL，Git）  
 - 硬件技术（Altium Designer）
-- 嵌入式技术（STM32，Keil，RTOS、RT-thread）
+- 嵌入式技术（STM32，Keil，RTOS、RT-thread）  
+
+## 人工智能  
+### Pytroch介绍  
+&emsp;PyTorch的前身便是Torch，其底层和Torch框架一样，但是使用Python重新写了很多内容，不仅更加灵活，支持动态图，而且提供了Python接口。它是由Torch7团队开发，是一个以Python优先的深度学习框架，不仅能够实现强大的GPU加速，同时还支持动态神经网络，这是很多主流深度学习框架比如Tensorflow等都不支持的。  
+
+&emsp;PyTorch既可以看作加入了GPU支持的numpy，同时也可以看成一个拥有自动求导功能的强大的深度神经网络。除了Facebook外，它已经被Twitter、CMU和Salesforce等机构采用。  
+
+## 机器人系统  
+### ROS介绍 
+&emsp;ROS---(Robot Operating System）是一个机器人软件平台，它能为异质计算机集群提供类似操作系统的功能。ROS的前身是斯坦福人工智能实验室为了支持斯坦福智能机器人STAIR而建立的交换庭(switchyard）项目。到2008年，主要由威楼加拉吉继续该项目的研发。  
+
+&emsp;ROS提供一些标准操作系统服务，例如硬件抽象，底层设备控制，常用功能实现，进程间消息以及数据包管理。ROS是基于一种图状架构，从而不同节点的进程能接受，发布，聚合各种信息（例如传感，控制，状态，规划等等）。目前ROS主要支持Ubuntu。  
+
+&emsp;ROS可以分成两层，低层是上面描述的操作系统层，高层则是广大用户群贡献的实现不同功能的各种软件包，例如定位绘图，行动规划，感知，模拟等等。  
+
+&emsp;ROS（低层）使用BSD许可证，所有是开源软件，并能免费用于研究和商业用途。而高层的用户提供的包则可以使用很多种不同的许可证。  
+
+## 视觉技术  
+## 计算机技术  
+## 硬件技术  
+## 嵌入式技术  
+
 
 
